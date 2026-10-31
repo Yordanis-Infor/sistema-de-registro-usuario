@@ -37,11 +37,11 @@ Un centro educativo desea automatizar la creación de cuentas para sus estudiant
 
 **Cuenta creada correctamente**
 
-![Cuenta creada](imagenes/exito.png)
+![Cuenta creada]./(imagenes/exito.png)
 
 **Clave inválida**
 
-![Clave inválida](imagenes/error.png)
+![Clave inválida]./(imagenes/error.png)
 
 ---
 
